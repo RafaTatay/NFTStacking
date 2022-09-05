@@ -2,7 +2,7 @@
 
 ## Time used
 
-Total hours: 17.5 hours
+Total hours: 19.5 hours
 
 ## Experience during the project
 
